@@ -14,7 +14,7 @@ an2
 # 3. Select the columns and create the object. Name it as phq9_"Yourname"
 # 4. Important: store/do your reliability analysis in an object named "an2".
 
-.
+
 
 
 
